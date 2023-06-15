@@ -16,7 +16,7 @@ The project has the following features:
 - Use of a dataset for training and testing the model.
 - Generation of an interactive map with the house price data using visualization libraries, such as matplotlib and folium.
 
-[Click here to view the generated map](https://matheuxito.github.io/pricing-houses/) ![Reference Map](map.png)
+[Click here to view the generated map](https://matheuxito.github.io/pricing-houses/) [![Reference Map](map.png)](https://matheuxito.github.io/pricing-houses/)
 
 ## How to Run the Project
 
